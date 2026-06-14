@@ -63,6 +63,6 @@ trading_bot/
 
 Binance Demo Futures endpoint was used:
 
-https://demo-fapi.binance.com
+[https://demo-fapi.binance.com](https://demo.binance.com/en/my/orders/futures/openorder)
 
 This is Binance's current Futures Demo Trading environment.
